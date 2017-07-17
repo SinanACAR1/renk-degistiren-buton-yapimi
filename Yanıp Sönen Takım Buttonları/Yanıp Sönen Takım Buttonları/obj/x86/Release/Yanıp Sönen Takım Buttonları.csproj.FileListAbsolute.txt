@@ -1,0 +1,7 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\bin\Release\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\bin\Release\Yanıp Sönen Takım Buttonları.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Release\Yanıp_Sönen_Takım_Buttonları.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Release\Yanıp_Sönen_Takım_Buttonları.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Release\Yanıp Sönen Takım Buttonları.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Release\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Release\Yanıp Sönen Takım Buttonları.pdb

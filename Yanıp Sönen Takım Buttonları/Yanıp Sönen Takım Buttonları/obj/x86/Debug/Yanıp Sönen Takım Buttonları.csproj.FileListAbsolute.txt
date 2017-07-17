@@ -1,0 +1,14 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\bin\Debug\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\bin\Debug\Yanıp Sönen Takım Buttonları.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp_Sönen_Takım_Buttonları.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp_Sönen_Takım_Buttonları.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\bin\Debug\Yanıp Sönen Takım Buttonları.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\bin\Debug\Yanıp Sönen Takım Buttonları.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp_Sönen_Takım_Buttonları.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp_Sönen_Takım_Buttonları.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Yanıp Sönen Takım Buttonları\Yanıp Sönen Takım Buttonları\obj\x86\Debug\Yanıp Sönen Takım Buttonları.csproj.GenerateResource.Cache
